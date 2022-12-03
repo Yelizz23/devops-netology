@@ -8,3 +8,4 @@
 - все файлы с расширением .tfvars,
 - файлы с названием override.tf или override.tf.json, а так же файлы заканчивающиеся на _override.tf и _override.tf.json,
 - файлы .terraformrc и terraform.rc.
+New line in README.md
